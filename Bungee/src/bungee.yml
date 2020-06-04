@@ -2,4 +2,4 @@
 name: BungeePlaceholderIntegration
 main: tk.t11e.bpi.bungee.Main
 version: '0.1-SNAPSHOT'
-description: An Integration for PlaceholderAPI on Bungeecord.
+description: PlaceholderAPI Support for BungeeCord.

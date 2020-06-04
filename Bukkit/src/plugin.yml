@@ -4,4 +4,4 @@ main: tk.t11e.bpi.bukkit.Main
 version: '0.1-SNAPSHOT'
 depend: ["PlaceholderAPI"]
 prefix: BPI
-description: An Integration for PlaceholderAPI on Bungeecord.
+description: PlaceholderAPI Support for BungeeCord.
